@@ -1,4 +1,4 @@
 # Hello-Word
 Solo un'altra repository
 
-Esempio esempio, mi piacerebe molto in futuro postare molti script! :)
+Example example, i would like in the future to post new scripts! :)
